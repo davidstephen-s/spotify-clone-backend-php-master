@@ -1,0 +1,1 @@
+This is the backend for [spotify-clone](https://github.com/rana-shoaib/react-spotify-clone) made with react
